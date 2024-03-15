@@ -40,6 +40,7 @@ body {
     font-size: 35px;
     color: beige;
     margin: 0 1.5rem;
+    cursor: pointer;
   }
   
   a {
